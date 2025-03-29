@@ -1,0 +1,5 @@
+FS3-Python Plan
+Belajar Selenium dengan bahasa pemograman Python
+- Basic
+- Praktek
+- Finish
